@@ -1,0 +1,7 @@
+{
+  "name": "photo-likes-site",
+  "version": "1.0.0",
+  "description": "موقع صور بلايكات ومشاهدات وحسابات (بدون أي مكتبات خارجية)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" }
+}
